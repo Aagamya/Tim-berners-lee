@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+#welcome{
+    background: linear-gradient(#8c0af0 0%,#f00707 100%);
+    
+    
+}
+.menu{
+    list-style: none;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+    position: fixed;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Style Script', cursive;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: auto;
+    margin-top: 2px;
+    
+}
+.contact1 h3{
+    display: inline; 
+}
